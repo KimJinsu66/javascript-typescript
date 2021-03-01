@@ -51,7 +51,7 @@
 
 [📝 JS엔지니어라면 알아야할 33가지 개념](https://github.com/KimJinsu66/javascript-typescript/tree/main/javascript/%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A033%EA%B0%80%EC%A7%80%EA%B0%9C%EB%85%90)
 
-[📜 참고 사이트](https://github.com/KimJinsu66/javascript-typescript/tree/main/javascript/)
+[📜 참고 사이트](https://github.com/yjs03057/33-js-concepts)
 1. [호출 스택](https://github.com/KimJinsu66/javascript-typescript/blob/main/javascript/%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A033%EA%B0%80%EC%A7%80%EA%B0%9C%EB%85%90/01_call_stack.md)
 2. 원시 자료형
 3. 값 타입(Value Type)과 참조 타입(Refecrence Type)
