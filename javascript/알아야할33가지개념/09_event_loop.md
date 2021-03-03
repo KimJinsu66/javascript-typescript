@@ -23,12 +23,7 @@ JS는 두개의 메인 컴포넌트를 갖는다
 
 밑에 있는 js브라우저 사진의 동작을 잘 이해하자
 
-[js브라우저 사진](https://d6vdma9166ldh.cloudfront.net/media/images/9aacbcd0-44c5-45e1-b3eb-be84a2eb99d8.png)
-
-### 📋
-
-✏️
-
+![js브라우저 사진](https://d6vdma9166ldh.cloudfront.net/media/images/9aacbcd0-44c5-45e1-b3eb-be84a2eb99d8.png)
 
 ---
 
